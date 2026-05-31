@@ -52,7 +52,7 @@ Full Stack Developer | Spring Boot · Angular · Django | ML & AI Enthusiast
 
 ## 🚀 Featured Projects
 
-### 🏥 V23 — Healthcare Management Platform
+### 🏥 V23 — Healthcare Management Platform   - Virinchi Limited Technologies
 > Full stack healthcare platform with role-based access for Providers & Patients
 
 - Built modules: Facility Management, Appointment Booking, Billing, Prescriptions
