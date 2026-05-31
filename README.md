@@ -33,6 +33,7 @@ Full Stack Developer | Spring Boot · Angular · Django | ML & AI Enthusiast
 
 **Database & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
@@ -52,7 +53,7 @@ Full Stack Developer | Spring Boot · Angular · Django | ML & AI Enthusiast
 
 ## 🚀 Featured Projects
 
-### 🏥 V23 — Healthcare Management Platform  at **Virinchi Limited Technologies**
+### 🏥 V23 — Healthcare Management Platform at Virinchi Limited Technologies
 > Full stack healthcare platform with role-based access for Providers & Patients
 
 - Built modules: Facility Management, Appointment Booking, Billing, Prescriptions
@@ -71,6 +72,19 @@ Full Stack Developer | Spring Boot · Angular · Django | ML & AI Enthusiast
 - **Stack:** Angular · Django REST Framework · MySQL · JWT · Vercel · Render
 
 🔗 [Live Demo](https://multi-vendor-ecommerce-rose.vercel.app/) · [GitHub](https://github.com/Vineeth-Reddy)
+
+---
+
+### 🎓 EduShop — Online Course Marketplace
+> Full stack course marketplace where users can browse, search, and purchase online courses
+
+- User authentication with login & register functionality
+- Course listings with author details, pricing, and search/browse features
+- Cart management with quantity controls for a smooth purchase experience
+- Fully responsive UI across all devices
+- **Stack:** Django · HTML · CSS · SQLite
+
+🔗 [Live Demo](https://edushop-jjrr.onrender.com/) · [GitHub](https://github.com/Vineeth-Reddy)
 
 ---
 
@@ -95,6 +109,7 @@ Full Stack Developer | Spring Boot · Angular · Django | ML & AI Enthusiast
 - Understanding of microservices architecture vs monolithic applications
 - Familiar with service communication via REST APIs and message queues
 - Know concepts like API Gateway, service discovery, and inter-service communication
+- Experience with Microservices concepts through Spring Boot development
 
 ---
 
