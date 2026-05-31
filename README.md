@@ -70,7 +70,7 @@ Full Stack Developer | Spring Boot · Angular · Django | ML & AI Enthusiast
 - Responsive Angular frontend with dynamic filtering & mock payment integration
 - **Stack:** Angular · Django REST Framework · MySQL · JWT · Vercel · Render
 
-🔗 [Live Demo](https://vkrportfolio-pi.vercel.app) · [GitHub](https://github.com/Vineeth-Reddy)
+🔗 [Live Demo](https://multi-vendor-ecommerce-rose.vercel.app/) · [GitHub](https://github.com/Vineeth-Reddy)
 
 ---
 
