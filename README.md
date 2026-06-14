@@ -1,12 +1,12 @@
 # Hi, I'm Vineeth Kumar Reddy 👋
 
-Full Stack Developer | Spring Boot · Angular · Django | ML & AI Enthusiast
+Full Stack Developer | Spring Boot · Angular · Django Rest Framework | ML & AI Enthusiast
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working as a **Full Stack Developer** at **Virinchi Limited Technologies**
+- 🔭 **Full Stack Developer**
 - 🏥 Building **V23** — a healthcare management platform with Spring Boot & Angular
 - 🎓 B.Tech in ECE from SVCET, Chittoor (CGPA: 8.51)
 - 🌱 Exploring **LLMs, RAG, Docker, Kubernetes & distributed systems**
