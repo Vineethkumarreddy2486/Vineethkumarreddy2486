@@ -84,6 +84,18 @@
 
 ---
 
+### 🔍 ProjectXplore — Academic & Project Showcase Platform
+> Web platform designed for cataloging, searching, and managing student & developer project portfolios
+
+- Engineered relational database structures to organize project submissions, user profiles, and tech stack tags
+- Implemented responsive search and indexing features to optimize query performance across large project catalogs
+- Developed dynamic frontend interfaces using TypeScript and modern web standards for seamless project discovery
+- **Stack:** TypeScript · Angular / Web Technologies · MySQL / Relational DB · REST APIs
+
+🔗 [GitHub](https://github.com/Vineeth-Reddy)
+
+---
+
 ### 🎓 EduShop — Educational Resource & Course Platform
 > Web application for educational resource management, cataloging, and cart handling
 
